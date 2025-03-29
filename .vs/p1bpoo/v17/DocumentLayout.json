@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\chofer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\carroelectrico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\interfaces\\ipiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\interfaces\\ipiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\autobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\misclases\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\misclases\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|c:\\users\\usuario\\downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B56D1BAF-B931-45F1-A4A9-3D1A0FF4258F}|p1bpoo\\p1bpoo.csproj|solutionrelative:p1bpoo\\p1bpoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 220,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "autoBus.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\autoBus.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\autoBus.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\autoBus.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\autoBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:54:02.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Taxi.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\Taxi.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Taxi.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\Taxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:47:28.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Moto.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\Moto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Moto.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:39:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chofer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Chofer.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\Chofer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Chofer.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\Chofer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:41:02.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ipiloto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\Interfaces\\Ipiloto.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\Interfaces\\Ipiloto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\Interfaces\\Ipiloto.cs",
+              "RelativeToolTip": "p1bpoo\\Interfaces\\Ipiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:38:23.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "p1bpoo.csproj",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+              "RelativeDocumentMoniker": "p1bpoo\\p1bpoo.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+              "RelativeToolTip": "p1bpoo\\p1bpoo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T13:37:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarroElectrico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\CarroElectrico.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\CarroElectrico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\CarroElectrico.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\CarroElectrico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:02:55.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\MisClases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\MisClases\\Vehiculo.cs",
+              "RelativeToolTip": "p1bpoo\\MisClases\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:02:55.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\Program.cs",
+              "RelativeDocumentMoniker": "p1bpoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\Program.cs",
+              "RelativeToolTip": "p1bpoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:02:55.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
