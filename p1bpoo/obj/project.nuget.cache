@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3NTJcN/pFjs=",
+  "dgSpecHash": "U/XYeqHtiLU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\PROGRAMACIÓN I - JHONY DE LEÓN\\-Validaciones-de-Clase-\\p1bpoo\\p1bpoo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

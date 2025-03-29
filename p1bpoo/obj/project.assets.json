@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\PROGRAMACIÓN I - JHONY DE LEÓN\\-Validaciones-de-Clase-\\p1bpoo\\p1bpoo.csproj",
       "projectName": "p1bpoo",
-      "projectPath": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\p1bpoo.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\PROGRAMACIÓN I - JHONY DE LEÓN\\-Validaciones-de-Clase-\\p1bpoo\\p1bpoo.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Downloads\\p1poo\\p1bpoo\\p1bpoo\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\PROGRAMACIÓN I - JHONY DE LEÓN\\-Validaciones-de-Clase-\\p1bpoo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
